@@ -1,17 +1,19 @@
 # Tooless 是一个适合IT从业者的浏览器扩展
 
-Tooless™ 是一种新思路下的Web定向加速技术，专注于提升设计师、工程师、产品经理等专业人群的网站和WebApp的访问速度及 工作效率工具集。
+Tooless™ 是一种新思路下的Web定向加速技术，专注于提升设计师、工程师、产品经理等专业人群的网站和WebApp的访问速度及 工作效率工具。
 
-用户所体验到的国产版的“谷歌蜻蜓计划”，这个只是我们对数据过滤功能的一个演示，让大家可以直观体验到，如果谷歌搜索符合中国法律要求，大概会是什么样的。
+用户所体验到的国产版的“谷歌蜻蜓计划”（当然是山寨的），这个只是我们对数据过滤功能的一个演示，让大家可以直观体验到，如果谷歌搜索符合中国法律要求，大概会是什么样的。
 
-我们对Google所做的过滤，与政府或者Google公司没有任何关系。纯粹是应为因为没有谷歌的话搜索技术资料是非常不方便甚至绝望的。如果Google或有关部门觉得不妥，我们可以停止这个演示。
+我们对 Google 所做的过滤，与政府或者 Google 公司没有任何关系。喜欢使用 Google 是因为如果没有 Google 搜索的话，搜索技术资料是非常不方便甚至绝望的。这方面甚至可以由大多数的搜索引擎公司的工程师亲自来证明。
 
-
+![image](https://github.com/toolessorg/chinanet/blob/master/img/dragonfly.png)
 
 下载地址： | -
 ---|---
 Mac: | https://github.com/toolessorg/chinanet/raw/master/files/tooless-2.0-setup-last.pkg
 Windows | https://github.com/toolessorg/chinanet/raw/master/files/tooless-2.0-setup-last.zip
+
+如果Google或有关部门觉得不妥，我们立即停止这个演示。
 
 
 # 简单扼要的作个界定：
@@ -86,7 +88,8 @@ Windows | https://github.com/toolessorg/chinanet/raw/master/files/tooless-2.0-se
 
 微信扫一扫随意捐赠：
 
-![image](https://github.com/toolessorg/chinanet/blob/master/wxzf.png)
+![image](https://github.com/toolessorg/chinanet/blob/master/img/wxzf.png)
+
 
 
 捐赠备注中请在备注留下您的邀请码，便于我们知道您是哪一位，表示感谢。与我们一起对产品进行讨论改善。注意：捐赠不是贩卖，只是一种价值观的认同，希望大家不要把这个理解成服务费或会员费。
