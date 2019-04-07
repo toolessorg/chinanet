@@ -6,7 +6,13 @@ Tooless™ 是一种新思路下的Web定向加速技术，专注于提升设计
 
 我们对Google所做的过滤，与政府或者Google公司没有任何关系。纯粹是应为因为没有谷歌的话搜索技术资料是非常不方便甚至绝望的。如果Google或有关部门觉得不妥，我们可以停止这个演示。
 
-下载地址： https://www.tooless.org/download.htm
+
+
+下载地址： | -
+---|---
+Mac: | https://github.com/toolessorg/chinanet/raw/master/files/tooless-2.0-setup-last.pkg
+Windows | https://github.com/toolessorg/chinanet/raw/master/files/tooless-2.0-setup-last.zip
+
 
 # 简单扼要的作个界定：
 
@@ -41,9 +47,9 @@ Tooless™ 是一种新思路下的Web定向加速技术，专注于提升设计
 
 # 到底解决什么问题
 
-没有企业愿意自己的员工去看那些“与工作无关的内容”。但是有些网站确实是日常经营需要的。如果使用了VPN，就会看到大量那些“与工作无关的内容”。那么对于绝大部分民间小企业，年轻人的创业公司，除了蓝灯，SSR，境外VPN...，还有什么解决办法么？
+没有企业愿意自己的员工去看那些“与工作无关的内容”。但是有些网站确实是日常经营需要的。如果使用了VPN，员工就会看到大量那些“与工作无关的内容”。那么对于绝大部分民间小企业，年轻人的创业公司，除了蓝灯，SSR，境外VPN...，其实真的没有别的选择？
 
-我们无数次思考过，即使是正规报备了外网需求的企业，即使是及其昂贵的运营商级SD-WAN和各种正规渠道VPN，是否真正解决“与工作无关的内容”问题么？更别提国外的廉价VPN甚至敌对势力工具了。
+我们无数次思考过，即使是正规报备了外网需求的企业，即使是及其昂贵的运营商级SD-WAN和各种正规渠道VPN，是否真正解决“与工作无关的内容”问题么？更别提国外的廉价VPN甚至敏感恶意工具了。
 
 根据我们的数据分析，其实大家仅仅是需要一个性价比更高的能解决工作刚需的工具。Tooless 一直探索有没有可能用远低于VPN的成本，解决真正的工作刚需工具问题。我们非常高兴能和设计师、工程师群体一起讨论和摸索。因为他们并不是需要娱乐和新闻资讯，而是真正的工作刚需，堵住了一个工具，必定又会产生更多的工具。因此，基于“疏”和“堵”两方面着手才是正确的解决问题的思路。
 
@@ -67,7 +73,10 @@ Tooless 并非VPN类技术，并不能做网站以外的联通，也并非只连
 
 
 # 下载参与测试和提建议：
-   https://www.tooless.org/download.htm
+下载地址： | -
+---|---
+Mac: | https://github.com/toolessorg/chinanet/raw/master/files/tooless-2.0-setup-last.pkg
+Windows | https://github.com/toolessorg/chinanet/raw/master/files/tooless-2.0-setup-last.zip
 
    讨论或建议请在issus中留言
 
