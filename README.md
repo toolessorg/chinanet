@@ -13,6 +13,7 @@ Tooless™ 是一种新思路下的Web定向加速技术，专注于提升设计
 Mac: | https://github.com/toolessorg/chinanet/raw/master/files/tooless-2.0-setup-last.pkg
 Windows | https://github.com/toolessorg/chinanet/raw/master/files/tooless-2.0-setup-last.zip
 
+
 如果Google或有关部门觉得不妥，我们立即停止这个演示。
 
 
@@ -84,7 +85,7 @@ Windows | https://github.com/toolessorg/chinanet/raw/master/files/tooless-2.0-se
 
 
 # 捐赠支持我们的研究
-因为需要处理的数据量巨大（越来越大），我们已经无力支付数据库等日益增长费用。如果我们想继续研究下去，除了接受大家的捐赠，没有别的可能的。
+因为需要处理的数据量巨大（越来越大），我们已经无力支付数据库和流量费等日益增长费用。如果我们想继续研究下去，除了接受大家的捐赠，没有别的可能的。
 
 微信扫一扫随意捐赠：
 
