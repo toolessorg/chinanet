@@ -8,11 +8,6 @@ Tooless™ 是一种新思路下的Web定向加速技术，专注于提升设计
 
 ![image](https://github.com/toolessorg/chinanet/blob/master/img/dragonfly.png)
 
-下载地址： | -
----|---
-Mac: | https://github.com/toolessorg/chinanet/raw/master/files/tooless-2.0-setup-last.pkg
-Windows | https://github.com/toolessorg/chinanet/raw/master/files/tooless-2.0-setup-last.zip
-
 如果Google或有关部门觉得不妥，我们立即停止这个演示。
 
 
@@ -81,15 +76,3 @@ Mac: | https://github.com/toolessorg/chinanet/raw/master/files/tooless-2.0-setup
 Windows | https://github.com/toolessorg/chinanet/raw/master/files/tooless-2.0-setup-last.zip
 
    讨论或建议请在issus中留言
-
-
-# 捐赠支持我们的研究
-因为需要处理的数据量巨大（越来越大），我们已经无力支付数据库和流量费等日益增长费用。如果我们想继续研究下去，除了接受大家的捐赠，没有别的可能的。
-
-微信扫一扫随意捐赠：
-
-![image](https://github.com/toolessorg/chinanet/blob/master/img/wxzf.png)
-
-
-
-捐赠备注中请在备注留下您的邀请码，便于我们知道您是哪一位，表示感谢。与我们一起对产品进行讨论改善。注意：捐赠不是贩卖，只是一种价值观的认同，希望大家不要把这个理解成服务费或会员费。
