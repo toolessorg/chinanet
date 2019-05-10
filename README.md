@@ -74,6 +74,6 @@ Tooless 所涉及的技术层面非常多，从基础网络连接、内容过滤
 下载地址： | -
 ---|---
 Mac: | https://dl.tooless.org/update/tooless/mac/tooless-2.1-setup-last.pkg
-Windows | https://dl.tooless.org/update/tooless/win/tooless-2.0-setup-last.zip
+Windows | https://dl.tooless.org/update/tooless/win/tooless-2.1-setup-last.zip
 
    讨论或建议请在issus中留言
